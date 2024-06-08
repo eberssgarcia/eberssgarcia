@@ -33,13 +33,9 @@ I am a Quality Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 - 🤝 I’m looking for help with **Remote Jobs**
 
-- 👨‍💻 All of my projects are available at [https://github.com/eberssgarcia](https://github.com/eberssgarcia)
-
 - 📝 I regularly write articles on [https://eberssgarcia.netlify.app/](https://eberssgarcia.netlify.app/)
 
-- 💬 Ask me about **Selenium, Karate DSL, Cypress**
-
-- 📫 How to reach me **garciaayzanaeber@gmail.com**
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Eber-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eberssgarcia) and **garciaayzanaeber@gmail.com**
 
 
 ---
