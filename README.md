@@ -41,19 +41,6 @@ I am a Quality Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 - 📫 How to reach me **garciaayzanaeber@gmail.com**
 
----
-### 🤙 Connect with me
-<div>
-  <a href="https://linkedin.com/in/eberssgarcia" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eberssgarcia" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/eberssgarcia" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eberssgarcia" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/c/eberssgarcia" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="eberssgarcia" height="30" width="40" />
-  </a>
-</div>
 
 ---
 ### :hammer_and_wrench: Languages and Dev Tools :
