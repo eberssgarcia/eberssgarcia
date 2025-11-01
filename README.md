@@ -8,7 +8,7 @@
       </div>
     </td>
     <td valign="top" align="center">
-      <h3 align="center"> 🦸‍♂️ A passionate Quality Engineer</h3>
+      <h3 align="center"> 🦸‍♂️ A passionate Automation Engineer</h3>
       <div>  
         <a href="https://www.buymeacoffee.com/eberssgarcia" target="blank"> 
           <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="eberssgarcia" />
@@ -27,9 +27,9 @@
 I am a Quality Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Perú.
 - 🔭 I’m currently working on **Countinuous Testing**
 
-- 🌱 I’m currently learning **Python, ETL**
+- 🌱 I’m currently learning **Python, IA**
 
-- 👯 I’m looking to collaborate on **Projects with Cypress**
+- 👯 I’m looking to collaborate on **Projects with Playwright, Selenium, Cypress, Karate, Appium**
 
 - 🤝 I’m looking for help with **Remote Jobs**
 
